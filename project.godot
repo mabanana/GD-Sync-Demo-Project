@@ -10,15 +10,15 @@ config_version=5
 
 [GD-Sync]
 
-publicKey=""
-privateKey=""
+publicKey="db083b5c4ac8aa3d"
+privateKey="692197534c088c62"
 uniqueUsername=false
 
 [application]
 
 config/name="GD-Sync Demo"
 run/main_scene="res://Menus/main_menu.tscn"
-config/features=PackedStringArray("4.2", "Forward Plus")
+config/features=PackedStringArray("4.1", "Forward Plus")
 run/max_fps=60
 config/icon="res://icon.png"
 
