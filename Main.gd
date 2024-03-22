@@ -1,4 +1,4 @@
-extends Node3D
+extends Node2D
 
 var PLAYER_SCENE : PackedScene = load("res://Player/Player.tscn")
 
